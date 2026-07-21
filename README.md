@@ -1,8 +1,9 @@
 ## Hi there 👋
-
+<hr>
 # Ostatni Projekt
-Inteligenta kamera obracająca obraz w osi ROLL względem Żyroskopu z wykrywaniem ludzi przez YOLOv8
-
+<hr>
+#Inteligentna kamera obracająca obraz w osi ROLL względem Żyroskopu z wykrywaniem ludzi przez YOLOv8
+<img src="img/smartcamera.png" alt="Smart Camera" width="100%">
 
 
 <!--
