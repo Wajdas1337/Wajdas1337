@@ -1,11 +1,15 @@
-## Hi there 👋
+## Zapisane projekty
 <hr>
-# Ostatni Projekt
+<h1>Ostatni Projekt</h1>
 <hr>
-#Inteligentna kamera obracająca obraz w osi ROLL względem Żyroskopu z wykrywaniem ludzi przez YOLOv8
+<h3>Inteligentna kamera obracająca obraz w osi ROLL względem Żyroskopu z wykrywaniem ludzi przez YOLOv8</h3>
 <img src="img/smartcamera.png" alt="Smart Camera" width="100%">
 
+<hr>
 
+<h3>System zarzadzania logistyką za pomocą RFID</h3>
+<img src="img/inz1.png" alt="screeny programu" width="100%">
+<img src="img/inz2.png" alt="screenyProgramu" width="100%">
 <!--
 **Wajdas1337/Wajdas1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
