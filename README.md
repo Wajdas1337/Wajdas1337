@@ -8,19 +8,22 @@
 <hr>
 
 <h3>System zarzadzania logistyką za pomocą RFID</h3>
+Celem pracy było zaprojektowanie i implementacja systemu zarządzania logistyką z wykorzystaniem technologii RFID, usprawniającego kontrolę nad przepływem towarów i automatyzującego procesy magazynowe. Zakres obejmował analizę technologii RFID, opracowanie architektury systemu, implementację prototypu oraz jego testy funkcjonalne i wydajnościowe. Na podstawie wyników oceniono skuteczność rozwiązania oraz możliwości jego dalszego rozwoju i wdrożenia w logistyce.
+
 <img src="img/inz1.png" alt="screeny programu" width="100%">
 <img src="img/inz2.png" alt="screenyProgramu" width="100%">
 <!--
 **Wajdas1337/Wajdas1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Podstawowa obsługa gracza w Unity</h3>
+
+
+<p align="center">
+  <img src="img/game_movement.gif" alt="movement" width="250" />
+  &nbsp;
+  <img src="img/game_ineraction.gif" alt="interacje" width="250" />
+  &nbsp;
+  <img src="img/game_items.gif" alt="przedmioty" width="250" />
+</p>
