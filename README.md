@@ -14,14 +14,14 @@ Celem pracy było zaprojektowanie i implementacja systemu zarządzania logistyk�
 <hr>
 
 <h3>Podstawowa obsługa gracza w Unity</h3>
-
+Moduł sterowania postacią w silniku Unity, obejmujący płynną obsługę ruchu, kontekstową detekcję i wyzwalanie interakcji z otoczeniem oraz dynamiczny system podnoszenia i zarządzania przedmiotami.
 
 <p align="center">
-  <img src="img/game_movement.gif" alt="movement" width="250" />
+  <img src="img/game_movement.gif" alt="movement" width="33%" />
   &nbsp;
-  <img src="img/game_ineraction.gif" alt="interacje" width="250" />
+  <img src="img/game_ineraction.gif" alt="interacje" width="33%" />
   &nbsp;
-  <img src="img/game_items.gif" alt="przedmioty" width="250" />
+  <img src="img/game_items.gif" alt="przedmioty" width="33%" />
 </p>
 
 <!--
