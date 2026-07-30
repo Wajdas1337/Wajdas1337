@@ -1,5 +1,3 @@
-## Zapisane projekty
-<hr>
 <h1>Ostatni Projekt</h1>
 <hr>
 <h3>Inteligentna kamera obracająca obraz w osi ROLL względem Żyroskopu z wykrywaniem ludzi przez YOLOv8</h3>
@@ -12,8 +10,6 @@ Celem pracy było zaprojektowanie i implementacja systemu zarządzania logistyk�
 
 <img src="img/inz1.png" alt="screeny programu" width="100%">
 <img src="img/inz2.png" alt="screenyProgramu" width="100%">
-<!--
-**Wajdas1337/Wajdas1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <hr>
 
@@ -27,3 +23,7 @@ Celem pracy było zaprojektowanie i implementacja systemu zarządzania logistyk�
   &nbsp;
   <img src="img/game_items.gif" alt="przedmioty" width="250" />
 </p>
+
+<!--
+**Wajdas1337/Wajdas1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
